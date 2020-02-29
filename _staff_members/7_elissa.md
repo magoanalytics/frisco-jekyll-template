@@ -1,6 +1,6 @@
 ---
 name: Elissa
-position: Internal Operations
+position: Finance
 image_path: images/staff/elissa.jpg
 github_username: emcabal
 ---

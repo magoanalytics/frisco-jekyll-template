@@ -1,6 +1,6 @@
 ---
 name: Henry
-position: Technology
+position: Quality Assurance
 image_path: images/staff/henry.png
 github_username: henrylaynesa
 ---

@@ -1,6 +1,6 @@
 ---
 name: Ron
-position: Research and Development
+position: 
 image_path: images/staff/ron.jpg
 github_username: particle1331
 ---

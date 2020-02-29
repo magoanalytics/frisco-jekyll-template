@@ -1,6 +1,6 @@
 ---
 name: Lex
-position: Talent Management
+position: Human Resources
 image_path: images/staff/lex.jpg
 github_username: lextanganco
 ---

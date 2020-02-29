@@ -1,6 +1,6 @@
 ---
 name: Gab
-position: Data Engineering
+position: Technology
 image_path: images/staff/gab.jpeg
 github_username: gabrieldaos
 ---

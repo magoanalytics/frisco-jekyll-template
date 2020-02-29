@@ -1,6 +1,6 @@
 ---
 name: Angelie
-position: COO
+position: Operations
 image_path: images/staff/angelie.jpg
 github_username: maglang
 ---
