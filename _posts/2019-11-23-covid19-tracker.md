@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: COVID-19 Philippines Tracker
