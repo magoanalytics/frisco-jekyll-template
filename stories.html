@@ -6,7 +6,7 @@ image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
 <section class="hero2">
   <div class="posts-list content">
     <h1><span style = "color: DarkOrange">magô </span><span style = "color: Orange">stories</span></h1>
-    
+
     {% for post in site.posts %}
       <article class="post-preview">
         <a href="{{ post.url | relative_url }}">
@@ -20,7 +20,7 @@ image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
         </a>
 
         <p class="post-meta">
-          Posted on {{ post.date | date: site.date_format }}
+          Posted on {{ post.date }}
         </p>
 
         {% if post.tags.size > 0 %}
