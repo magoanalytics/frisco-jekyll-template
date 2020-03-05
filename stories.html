@@ -20,7 +20,7 @@ image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
         </a>
 
         <p class="post-meta">
-          Posted on {{ post.date }}
+          Posted on {{ post.date | date: '%B %d, %Y'}}
         </p>
 
         {% if post.tags.size > 0 %}
