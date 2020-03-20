@@ -6,7 +6,7 @@ gh-repo:
 gh-badge:
 tags: [Webscraping, NLP, Mapping]
 comments: true
-share-img: /img/capstone-images/sona_vs_bjg.PNG
+image: /img/capstone-images/sona_vs_bjg.PNG
 ---
 
 Starting last January, the Philippines has been alert of the Coronavirus outbreak that's happening all around the world. Flights are being suspended, people are being quarantined, and most of all people are always speculating where could the virus could be most likely present in our country.
