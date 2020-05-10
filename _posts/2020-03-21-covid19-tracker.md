@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How we created a COVID-19 Tracker Using News Articles
-subtitle: How webscraping and NLP can be used in tracking the COVID-19 cases in the Philippines.
+title: Creating a COVID-19 PH Tracker by Aggregating News Articles
+subtitle: How we created a COVID-19 Tracker Using News Articles by using webscraping and NLP
 gh-repo:
 gh-badge:
 tags: [Webscraping, NLP, Mapping]
