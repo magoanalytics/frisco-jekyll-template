@@ -1,7 +1,7 @@
 #- name: Blog
 #  link: /blog/
-#- name: Stories
-#  link: /stories/
+- name: Stories
+  link: /stories/
 #- name: Projects
 #  link: /projects/
 #- name: Contact
