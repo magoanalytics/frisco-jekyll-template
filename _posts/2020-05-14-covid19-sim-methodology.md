@@ -4,7 +4,7 @@ title: Agent Based Modeling Methodology for the COVID Interventions Analysis
 subtitle: The complete methodology of how we accomplished the simulations using various tools.
 gh-repo:
 gh-badge:
-tags: [Webscraping, NLP, Mapping]
+tags: [Agent Based Modeling]
 comments: true
 image: /images/blog/covid_sim_1/cover2.gif
 reading-time: '7'

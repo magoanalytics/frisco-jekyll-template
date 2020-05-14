@@ -9,16 +9,17 @@ google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: App marketing template for Jekyll.
+logo: /images/favicon.ico
+description: Magô Analytics is a data consulting collective that aims to empower and enable organizations with limited data capabilities
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: Github
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+     - https://github.com/magoanalytics
+    #- https://github.com/CloudCannon/frisco-jekyll-template
 
 # -----
 # Build
