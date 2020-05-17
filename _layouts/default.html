@@ -7,11 +7,11 @@
 
 		<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-		{% if page.header-img %}
-	    <meta property="og:image" content="{{ site.url }}/{{ post.header-img }}" />
+		{% if page.share-img %}
+	    <meta property="og:image" content="{{ site.url }}/{{ page.share-img }}" />
 	  {% endif %}
 
-	  <meta property="og:description" content="{{ post.subtitle }}" />
+	  <meta property="og:description" content="{{ page.subtitle }}" />
 
 		{% seo %}
 		{% feed_meta %}
