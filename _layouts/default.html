@@ -7,14 +7,14 @@
 
 		<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-		{% if page.share-img %}
-	    <meta property="og:image" content="{{ site.url }}/{{ page.share-img }}" />
-	  {% endif %}
-
-	  <meta property="og:description" content="{{ page.subtitle }}" />
-
 		{% seo %}
 		{% feed_meta %}
+
+		{% if page.share-img %}
+			<meta property="og:image" content="{{ site.url }}/{{ page.share-img }}" />
+		{% endif %}
+
+		<meta property="og:description" content="{{ page.subtitle }}" />
 
 		<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
