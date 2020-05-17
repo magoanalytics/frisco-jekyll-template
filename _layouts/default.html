@@ -7,6 +7,11 @@
 
 		<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
+		{% if page.header-img %}
+	    <meta property="og:image" content="{{ site.url }}/{{ post.header-img }}" />
+	  {% endif %}
+
+	  <meta property="og:description" content="{{ post.subtitle }}" />
 
 		{% seo %}
 		{% feed_meta %}
