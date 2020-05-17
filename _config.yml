@@ -84,12 +84,12 @@ defaults:
     values:
       layout: "post"
       _options:
-        image:
+        share-img:
           width: 2000
           height: 1322
           resize_style: cover
           uploads_dir: "/images/post_uploads"
-        content:
+        subtitle:
           width: 1500
           height: 2000
           uploads_dir: "/images/post_uploads"
