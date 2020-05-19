@@ -8,7 +8,7 @@ tags: [Agent Based Modeling]
 comments: true
 image: /images/blog/covid_sim_1/cover.gif
 reading-time: '7'
-share-img: /images/blog/covid_sim_1/share-img.PNG
+share-img: /images/blog/covid_sim_1/covid-sim1-share-img-new.png
 ---
 
 # Agent-Based Epidemiological Simulation
@@ -16,7 +16,7 @@ This project aims to determine and quantify the effects of implementing lockdown
 
 
 ## What is Agent-Based Modelling?
-<img align="right" src="https://github.com/magoanalytics/agent-based-epidemiological-simulation/blob/master/pictures/interface.png?raw=true" width="450px" height="250px" />
+<img align="right" src="https://github.com/magoanalytics/agent-based-epidemiological-simulation/blob/master/pictures/sample_run.gif?raw=true" width="350px" />
 
 Agent-based modelling (ABM) is a technique that models a complex system by reducing it to the interactions between agents and their environment. Here, agents can possess properties such as age and gender, and can perform actions based on pre-defined set of conditions. The environment possesses properties as well, and can affect the behavior of agents and vice versa. Observables such as population growth can then be measured to infer relationships between agent behavior and the overall behavior of the system. This makes ABMs powerful in that it can be used to observe and quantify the macroscopic behavior of many complex systems over time just by knowing how individual agents behave. This can be achieved without the need to construct differential equations that requires pre-existing knowledge of the relationships between observables.
 
@@ -33,11 +33,11 @@ To begin, you need to download the latest version of Netlogo using the following
 Next, go to our repository using the link: https://github.com/magoanalytics/agent-based-epidemiological-simulation. After cloning the repository, load `epi_model.nlogo` from the file tab. Alternatively, you can simply double-click `epi_model.nlogo` from the repository folder.
 
 ## Setup and Go Procedures
-Move the sliders and/or select values from the drop-down list in the interface tab to modify hyperparameters to their desired values, then click `Setup` button to initiate and update changes to the model. Click `Go` button to run the simulation.
-
-![sample_interface](https://github.com/magoanalytics/agent-based-epidemiological-simulation/blob/master/pictures/interface.png?raw=true){: .center-block :}
-
+Move the sliders and/or select values from the drop-down list in the interface tab to modify hyperparameters to their desired values, then click `Setup` button to initiate and update changes to the model. Click `Go` button to run the simulation. A chart plotting the variables of interest, such as the number of infected and recovered agents, are shown on the left side of the interface. On the right side, a view of the simulation is updated at each tick.
 For a complete list of hyperparameters, refer to the Model Parameters section.
+
+![sample_setup](https://github.com/magoanalytics/agent-based-epidemiological-simulation/blob/master/pictures/sample_setup.gif?raw=true){: .center-block :}
+
 
 ## Modelling Approach
 To model the spread of the disease in a population, we need to properly define the rules that govern how each agent behaves, as well as the interactions between the agents and its environment. In addition, agent behavior will have to be defined separately for simulations that include interventions. This section aims to explain our approach in detail.  
