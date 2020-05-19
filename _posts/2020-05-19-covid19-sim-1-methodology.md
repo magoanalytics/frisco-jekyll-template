@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Agent Based Modeling Methodology for the COVID Interventions Analysis
-subtitle: The complete methodology of how we accomplished the simulations using various tools.
+title: Agent Based Modeling Methodology for the COVID Interventions Analysis - Part 1
+subtitle: The complete methodology of how we accomplished the simulations using various tools for the first part of this project.
 gh-repo: magoanalytics/agent-based-epidemiological-simulation
 gh-badge: [star, follow]
 tags: [Agent Based Modeling]
 comments: true
-image: /images/blog/covid_sim_1/cover2.gif
+image: /images/blog/covid_sim_1/cover.gif
 reading-time: '7'
 share-img: /images/blog/covid_sim_1/share-img.PNG
 ---
