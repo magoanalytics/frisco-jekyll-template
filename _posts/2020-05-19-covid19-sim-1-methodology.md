@@ -7,7 +7,7 @@ gh-badge: [star, follow]
 tags: [Agent Based Modeling]
 comments: true
 image: /images/blog/covid_sim_1/cover.gif
-reading-time: '7'
+reading-time: '6'
 share-img: /images/blog/covid_sim_1/covid-sim1-share-img-new.png
 ---
 
