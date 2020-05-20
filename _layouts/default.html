@@ -13,6 +13,10 @@
 			<meta property="og:image" content="{{ site.url }}{{ page.share-img }}" />
 		{% endif %}
 
+		{% if page.title %}
+			<title>{{ page.title }} | Magô Analytics</title>
+		{% endif %}
+
 		<meta property="og:description" content="{{ page.subtitle }}" />
 		<meta property="og:title" content="{{ page.title }} | Magô Analytics" />
 
