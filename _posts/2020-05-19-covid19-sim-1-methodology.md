@@ -79,7 +79,7 @@ The table below lists the hyperparameters, together with a short description and
 
 |Model Parameter|Description|Value|
 |-|-|-|
-|initial-populatin|Initial number of agents at the start of the simulation (t = t<sub>0</sub>)|[10,5000]|
+|initial-population|Initial number of agents at the start of the simulation (t = t<sub>0</sub>)|[10,5000]|
 |initial-infected|Initial number of infected agents at the start of the simulation (t = t<sub>0</sub>)|[1, 10]|
 |average-vulnerability|Average probability of a person being infected when near infected agent(s)|[0, 100]|
 |average-recovery-rate|Average probability of an infected agent to recover|[0, 100]|
