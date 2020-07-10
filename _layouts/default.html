@@ -7,6 +7,51 @@
 
 		<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
+		<script src="https://formspree.io/js/formbutton-v1.0.0.min.js" defer></script>
+
+		<script>
+		  /* paste this in verbatim */
+		  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments);};
+
+			/* customize formbutton here*/
+			 formbutton("create", {action: "https://formspree.io/mwkrrdag",
+				 title: "How can we help?",
+				 fields: [
+					 {
+						 type: "email",
+						 label: "Email:",
+						 name: "Sender Email Address",
+						 required: true,
+						 placeholder: "your@email.com"
+					 },
+					 {
+						 type: "text",
+						 label: "Sender Name:",
+						 name: "Sender Name",
+						 required: true,
+						 placeholder: "John Doe"
+					 },
+					 {
+						 type: "textarea",
+						 label: "Message:",
+						 name: "Message",
+						 placeholder: "What's on your mind?",
+					 },
+					 { type: "submit" }
+				 ],
+				 styles: {
+					 fontFamily: "Montserrat",
+					 title: {
+						 background: "orange",
+					 },
+					 button: {
+						 background: "orange",
+					 }
+				 },
+				 initiallyVisible: false
+			 });
+	  </script>
+
 		{% feed_meta %}
 
 		{% if page.share-img %}
