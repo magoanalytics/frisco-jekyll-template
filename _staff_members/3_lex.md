@@ -1,6 +1,6 @@
 ---
 name: Lex
-position: Human Resources
+position: 
 image_path: images/staff/lex.jpg
 github_username: lextanganco
 ---
