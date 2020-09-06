@@ -10,7 +10,20 @@ image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
     {% for post in site.posts %}
       <article class="post-preview">
         <a href="{{ post.url | relative_url }}">
-    	  <h2 class="post-title">{{ post.title }}</h2>
+    	  <h2 class="post-title"><b>{{ post.title }}</b></h2>
+
+        {% if post.author_list %}
+    	  <h4 class="post-subtitle" style = "margin-top= 50px;"> By 
+          {% for id in post.author_list %}
+  					{% assign author_id = id | prepend: "/staff_members/" | append: "/" %}
+  					{% assign author = site.staff_members | where: "url", author_id | first %}
+  					{% if forloop.last == true  and forloop.first != true%}
+  					  and
+  					{% endif %}
+  					{{author.fullname}}{% unless forloop.last %},{% endunless %}
+  				{% endfor %}
+    	  </h4>
+    	  {% endif %}
 
     	  {% if post.subtitle %}
     	  <h3 class="post-subtitle">

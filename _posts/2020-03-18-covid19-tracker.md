@@ -8,6 +8,7 @@ tags: [Webscraping, NLP, Mapping]
 comments: true
 image: /images/blog/covid_tracker/mago-tracker-cover.gif
 reading-time: '5'
+author_list: [4_gab]
 
 ---
 

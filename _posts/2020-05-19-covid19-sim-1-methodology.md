@@ -9,6 +9,7 @@ comments: true
 image: /images/blog/covid_sim_1/cover.gif
 reading-time: '6'
 share-img: /images/blog/covid_sim_1/covid-sim1-share-img-new.png
+author_list: [9_johnny]
 ---
 
 # Agent-Based Epidemiological Simulation
