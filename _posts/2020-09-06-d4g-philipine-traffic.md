@@ -11,7 +11,7 @@ author_list: [4_gab]
 ---
 
 ## Road accidents kill thousands of Filipinos every year.
-![sea traffic deaths](/images/blog/d4g-ph-traff/chart1.PNG){: .center-block :}
+![sea traffic deaths](/images/blog/d4g-ph-traff/chart1.png){: .center-block :}
 <figcaption><i><b>Figure 1.1</b> Road Traffic Deaths in SEA, 1990 - 2017</i></figcaption>
 Based from a dataset from a [Global Burden of Disease Study](https://www.who.int/docs/default-source/inaugural-who-partners-forum/who-interim-recommendation-on-obligatory-hand-hygiene-against-transmission-of-covid-19.pdf){:target="_blank_"}, the Philippines is among the top 5 countries with highest mortality rates with relation to road traffic accidents, with roughly 10 thousand deaths recorded in the year 2017.
 
@@ -21,7 +21,7 @@ Looking at red trend line that represents the Philippines in <b>Figure 1.1</b>, 
 
 To give more context on what's happening, data from the [Private Participation in Infrastructure Database](https://data.worldbank.org/indicator/IE.PPI.TRAN.CD){:target="_blank_"} shows the total amount each country in SEA has invested in improving their respective transport infrastructure.
 
-![sea budget](/images/blog/d4g-ph-traff/chart2.PNG){: .center-block :}
+![sea budget](/images/blog/d4g-ph-traff/chart2.png){: .center-block :}
 <figcaption><i><b>Figure 2.1</b> Latest investment for public transport (per capita) in SEA</i></figcaption>
 
 Among the countries with available data in SEA on <b>Figure 2.1</b>, we can see that the Philippines is in 5th place with around $16,000 per capita invested.
