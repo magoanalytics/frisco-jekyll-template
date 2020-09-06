@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The State of Traffic Infrastructure in the Philippines
+title: The State of Transport Infrastructure in the Philippines
 subtitle: This analysis took 2nd place on SDSN's Data for Good Hackathon where the state of the Philippine infrastructure was analyzed using world bank data
-tags: [Data Analysis, Descriptive Analytics]
+tags: [Data Analysis, Descriptive Analytics, Hackathon]
 comments: false
 image: /images/blog/d4g-ph-traff/cover.PNG
 reading-time: '5'
