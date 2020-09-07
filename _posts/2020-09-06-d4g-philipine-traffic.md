@@ -6,7 +6,7 @@ tags: [Data Analysis, Descriptive Analytics, Hackathon]
 comments: false
 image: /images/blog/d4g-ph-traff/cover.PNG
 reading-time: '5'
-share-img: /images/blog/d4g-ph-traff/cover.PNG
+share-img: /images/blog/d4g-ph-traff/chart1.png
 author_list: [4_gab]
 ---
 
