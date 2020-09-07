@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The State of Transport Infrastructure in the Philippines
-subtitle: This analysis took 2nd place on SDSN's Data for Good Hackathon where the state of the Philippine infrastructure was analyzed using world bank data
+subtitle: This analysis took 2nd place on the Data for Good Hackathon, hosted by the United Nations Sustainable Development Solutions Network (SDSN) and Eskwelabs, where the team focused on comparing the Philippines' transportation infrastructure and safety with that of other SEA countries.
 tags: [Data Analysis, Descriptive Analytics, Hackathon]
 comments: false
 image: /images/blog/d4g-ph-traff/cover.PNG
