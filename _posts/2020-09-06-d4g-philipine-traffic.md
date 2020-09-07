@@ -75,3 +75,9 @@ Our country has already started implementing improvements like the [BRT system i
 <b>What we're trying to say is we want to reduce our country's vehicle dependence to reduce road traffic casualties, and in order for us to do it, we have to make sure that the alternatives are safe and efficient in order to promote their use. </b>
 
 <i>“A developed country is not a place where the poor have cars. It’s where the rich use public transportation” – Gustavo Petro, Mayor of Bogotá</i>
+
+## Data for Good Hackathon
+
+This data analysis took second place on the [Data for Good Hackathon](https://www.unsdsn.org/data-for-good-hackathon-philippines){:target="_blank_"}. The United Nations Sustainable Development Solutions Network (SDSN) partnered with Eskwelabs, a data-science bootcamp in the Philippines, to host a Data for Good hackathon. The virtual hackathon was designed for those who were eager to learn more about how the Philippines is doing in achieving the United Nations Sustainable Development Goals (SDGs). Further analysis could be done by using updated datasets if found available, the analysis is just tackling the topic on a surface level given the scarcity of the needed data.
+
+[You can watch the presentation of Mago Analytics here.](https://www.facebook.com/Eskwelabs/videos/2434475030179439/?t=5110){:target="_blank_"}
