@@ -13,32 +13,32 @@ author_list: [4_gab]
 ## Road accidents kill thousands of Filipinos every year.
 ![sea traffic deaths](/images/blog/d4g-ph-traff/chart1.png){: .center-block :}
 <figcaption><i><b>Figure 1.1</b> Road Traffic Deaths in SEA, 1990 - 2017</i></figcaption>
-Based from a dataset from a [Global Burden of Disease Study](https://www.who.int/docs/default-source/inaugural-who-partners-forum/who-interim-recommendation-on-obligatory-hand-hygiene-against-transmission-of-covid-19.pdf){:target="_blank_"}, the Philippines is among the top 5 countries with highest mortality rates with relation to road traffic accidents, with roughly 10 thousand deaths recorded in the year 2017.
+Based on a dataset from a [Global Burden of Disease Study](https://www.who.int/docs/default-source/inaugural-who-partners-forum/who-interim-recommendation-on-obligatory-hand-hygiene-against-transmission-of-covid-19.pdf){:target="_blank_"}, the Philippines is among the top 5 countries with highest mortality rates related to road traffic accidents. The country has roughly 10 thousand deaths recorded in  2017.
 
-Looking at red trend line that represents the Philippines in <b>Figure 1.1</b>, we can see that the mortality rate for road traffic accidents almost increases every year for the Philippines. Other countries like Indonesia, Thailand, and Myanmar, despite having high mortality rates, have their trendlines going down for each year, which is what we also want for the Philippines.
+As illustrated by the red in Figure 1.1, we can see that the mortality rate for road traffic accidents almost increases every year for the Philippines. Despite having high mortality rates, the mortality trends for countries like Indonesia, Thailand, and Myanmar are downward. This is what we hope to achieve for the Philippines.
 
 ## How much has each country invested?
 
-To give more context on what's happening, data from the [Private Participation in Infrastructure Database](https://data.worldbank.org/indicator/IE.PPI.TRAN.CD){:target="_blank_"} shows the total amount each country in SEA has invested in improving their respective transport infrastructure.
+To understand the context, we look into the investment per capita for each country. Data from the [Private Participation in Infrastructure Database](https://data.worldbank.org/indicator/IE.PPI.TRAN.CD){:target="_blank_"} shows the total amount each Southeast Asian country has invested towards the improvement of their respective transport infrastructure.
 
 ![sea budget](/images/blog/d4g-ph-traff/chart2.png){: .center-block :}
 <figcaption><i><b>Figure 2.1</b> Latest investment for public transport (per capita) in SEA</i></figcaption>
 
-Among the countries with available data in SEA on <b>Figure 2.1</b>, we can see that the Philippines is in 5th place with around $16,000 per capita invested.
+Among the countries with available data, Figure 2.1 shows that the Philippines is in 5th place with around $16,000 per capita invested.
 
 ![sea budget](/images/blog/d4g-ph-traff/chart3.PNG){: .center-block :}
 <figcaption><i><b>Figure 2.2</b> Road Traffic Deaths in SEA, 2017 (Sorted by Investment Rank)</i></figcaption>
 
-If we actually retain the order of countries in <b>Figure 2.1</b> and replace the values with the total amount of road traffic deaths, we can see in <b>Figure 2.2</b> that the countries that have invested the most in their transport infrastructure have the least amount of deaths in this list. The Philippines could actually do better by investing more money in transport, and even if we don't, we have countries like Myanmar that have invested far less than us but roughly has the same amount of casualties than us in 2017, so its just the matter of knowing where to focus our efforts.
+Upon comparing the transport investment amount per capita with the number of road traffic deaths, we can see in Figure 2.2 that the countries that have invested the most in their transport infrastructure have the least amount of deaths. However, the graph also shows one outlier country, Myanmar. They have invested the least in transport, yet their road traffic related mortalities are lower than expected.
 
-This is something that's relevant to discuss, especially because the [Philippine government promises to halve road crash fatalities by 2030](https://cnnphilippines.com/news/2020/2/24/Halve-road-crash-fatalities-Philippines-.html){:target="_blank_"}. In order to make sure that the additional investments allotted for road transport to be successful, lets dig deeper on the outstanding problems the Philippines have.
+This may be a relevant discussion point  considering the [Philippine government promises to halve road crash fatalities by 2030](https://cnnphilippines.com/news/2020/2/24/Halve-road-crash-fatalities-Philippines-.html){:target="_blank_"}. To ensure that the additional investments allotted for road transport  are pedestrian-friendly, we dig deeper into the current issues of the Philippines.
 
-## Our Pedestrians have the highest rate of deaths
+## Our pedestrians have the highest rate of deaths
 
 ![sea budget](/images/blog/d4g-ph-traff/chart4.PNG){: .center-block :}
 <figcaption><i><b>Figure 3.1</b> Road Traffic Deaths in the Philippines, 1990 - 2017</i></figcaption>
 
-<b>Figure 3.1</b> categorizes the deaths shown in <b>Figure 1.1</b> into pedestrian, cyclists, motorcyclists, and drivers & passengers. We can see that the orange trendlines for all of the categories except for the pedestrians are increasing. It might be easy to say to prioritize these more than the pedestrians, but if we actually look at the numbers more closely, the pedestrians have it the worse among all the categories starting from the beginning.
+Figure 3.1 categorizes the deaths shown earlier in Figure 1.1 by pedestrian, cyclists, motorcyclists, and drivers & passengers. The orange trend lines represent the road traffic deaths per category. We can see that the road traffic deaths for all categories, except for pedestrians, are increasing. This might be a direction to de-prioritize pedestrians and address other categories. However,  if we look at the numbers more closely, pedestrians have it the worst among all the categories since 1990.
 
 Around 3,000 pedestrians die every year in the Philippines and that number has been consistent. The other categories are on their way to catch up to the pedestrian numbers but it still remains that most of the casualties come from pedestrians, especially when summed out.
 
@@ -47,37 +47,37 @@ Around 3,000 pedestrians die every year in the Philippines and that number has b
 ![sea budget](/images/blog/d4g-ph-traff/chart5.PNG){: .center-block :}
 <figcaption><i><b>Figure 4.1</b> Cyclist Road Traffic Deaths in the Philippines, 1990 - 2017</i></figcaption>
 
-When each of the categories were compared to other countries, what was found relevant is the trend of road deaths for cyclists in SEA. Looking at the red trendline which represents the Philippines, we can see that our country is on its way to have the 3rd highest mortality rate for cyclists. Since the data is only up to 2017, we could assume that we probably are in third place this year.
+Another relevant point to focus on is cycling. Public transport has been on halt at the start of the pandemic. Thus, Filipinos have turned to biking to get from place to place.
 
-This is another relevant point to focus on, especially in the pandemic we're experiencing, because people are now turning into their bikes as their main mode of transportation. Given the current state of our cycling infrastructure, there could possibly be an increase in casualties.
+Compared with to other countries, an interesting trend is the one for cyclists in SEA. The red trend line represents the Philippines. Comparing this trend with others, our country appears to be on its way to have the third highest mortality rate for cyclists. Given the increase in biking since the pandemic, could there be a rise in mortalities this 2020?
 
-## The Philippines has the lowest number of railways implemented
+## The Philippines is on its way to be third in yearly cyclist deaths
 
 ![sea budget](/images/blog/d4g-ph-traff/chart6.PNG){: .center-block :}
 <figcaption><i><b>Figure 5.1</b> Railroads built for transportation in SEA</i></figcaption>
 
-Looking at the data from the [International Union of Railways](https://data.worldbank.org/indicator/IS.RRS.TOTL.KM){:target="_blank_"}, we could immediately see that the Philippines has the least amount of railways available for transportation among those with available data.
+The data from the [International Union of Railways](https://data.worldbank.org/indicator/IS.RRS.TOTL.KM){:target="_blank_"} illustrates that the Philippines has the least amount of railways available.
 
 ![sea budget](/images/blog/d4g-ph-traff/chart7.PNG){: .center-block :}
 <figcaption><i><b>Table 1.1</b> SEA Countries Investments vs Railroads Implemented</i></figcaption>
 
-If we actually compare the investments made by each country to transportation to the total railroads they have, we have countries below the Philippines that have invested less than us but have higher numbers of railroads than us. We should be able to at least complete given the budget that we have, but even if we decide to do so, we have lots of catching up to do because most of the SEA countries here already have railroads implemented that are more than 2,000 kilometers.
+If we compare the transport investments to the total railroads per country, some countries have invested less than the Philippines yet, have a higher number of railroads.
 
 ## What should the Philippines do?
 
-Capping the points established, these are the clear points of focus for the Philippines in improving our transport infrastructure in the coming years:
+In summary, these are potential points of focus to improve the transport infrastructure in the Philippines:
 - Effective measures in reducing pedestrian casualties
-- Invest in Cycling Infrastructure
-- Improve Railway Systems
+- Invest in cycling infrastructure
+- Improve railway systems
 
-Our country has already started implementing improvements like the [BRT system in Cebu](https://www.pna.gov.ph/articles/1094751){:target="_blank_"} that not only improves bus transport but also pedestrian safety as well. We also have investments in road extensions like the [3 hour trip from Manila to Baguio via TPLEX](https://www.sunstar.com.ph/article/1863854/Pampanga/Local-News/TPLEx-reduces-Manila-Baguio-travel-time-to-3-hours){:target="_blank_"} and the [Ortigas - BGC bridge](https://www.topgear.com.ph/news/motoring-news/bgc-ortigas-bridge-meet-a962-20200807){:target="_blank_"} which will hopefully reduce road traffic, but most of these developments are geared towards vehicles in our country.
+Our country has already started implementing improvements like the [BRT system in Cebu](https://www.pna.gov.ph/articles/1094751){:target="_blank_"} This system not only improves bus transport but also pedestrian safety. We also have investments in road extensions like the [3 hour trip from Manila to Baguio via TPLEX](https://www.sunstar.com.ph/article/1863854/Pampanga/Local-News/TPLEx-reduces-Manila-Baguio-travel-time-to-3-hours){:target="_blank_"} and the [Ortigas - BGC bridge](https://www.topgear.com.ph/news/motoring-news/bgc-ortigas-bridge-meet-a962-20200807){:target="_blank_"} These can potentially reduce road traffic. However, most of these developments are geared towards private vehicles.
 
-<b>What we're trying to say is we want to reduce our country's vehicle dependence to reduce road traffic casualties, and in order for us to do it, we have to make sure that the alternatives are safe and efficient in order to promote their use. </b>
+In order for the Philippines to reduce private vehicle dependence, investments should be made towards alternative transport, such as walking, biking, and commuting. To achieve this, safe and efficient infrastructure must be in place.
 
 <i>“A developed country is not a place where the poor have cars. It’s where the rich use public transportation” – Gustavo Petro, Mayor of Bogotá</i>
 
 ## Data for Good Hackathon
 
-This data analysis took second place on the [Data for Good Hackathon](https://www.unsdsn.org/data-for-good-hackathon-philippines){:target="_blank_"}. The United Nations Sustainable Development Solutions Network (SDSN) partnered with Eskwelabs, a data-science bootcamp in the Philippines, to host a Data for Good hackathon. The virtual hackathon was designed for those who were eager to learn more about how the Philippines is doing in achieving the United Nations Sustainable Development Goals (SDGs). Further analysis could be done by using updated datasets if found available, the analysis is just tackling the topic on a surface level given the scarcity of the needed data.
+This data analysis got second place on the [Data for Good Hackathon](https://www.unsdsn.org/data-for-good-hackathon-philippines){:target="_blank_"}. The United Nations Sustainable Development Solutions Network (SDSN) partnered with Eskwelabs, a data-science bootcamp in the Philippines, to host a Data for Good hackathon. The virtual hackathon was designed for those who were eager to learn more about how the Philippines is doing in achieving the United Nations Sustainable Development Goals (SDGs). Further analysis could be done by using updated datasets, if available.
 
 [You can watch the presentation of Mago Analytics here.](https://www.facebook.com/Eskwelabs/videos/2434475030179439/?t=5110){:target="_blank_"}
