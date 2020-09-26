@@ -42,7 +42,7 @@ Figure 3.1 categorizes the deaths shown earlier in Figure 1.1 by pedestrian, cyc
 
 Around 3,000 pedestrians die every year in the Philippines and that number has been consistent. The other categories are on their way to catch up to the pedestrian numbers but it still remains that most of the casualties come from pedestrians, especially when summed out.
 
-## The Philippines is on its way to be 3rd in yearly cyclist deaths
+## The Philippines is on its way to be third in yearly cyclist deaths
 
 ![sea budget](/images/blog/d4g-ph-traff/chart5.PNG){: .center-block :}
 <figcaption><i><b>Figure 4.1</b> Cyclist Road Traffic Deaths in the Philippines, 1990 - 2017</i></figcaption>
@@ -51,7 +51,7 @@ Another relevant point to focus on is cycling. Public transport has been on halt
 
 Compared with to other countries, an interesting trend is the one for cyclists in SEA. The red trend line represents the Philippines. Comparing this trend with others, our country appears to be on its way to have the third highest mortality rate for cyclists. Given the increase in biking since the pandemic, could there be a rise in mortalities this 2020?
 
-## The Philippines is on its way to be third in yearly cyclist deaths
+## The Philippines has the lowest number of railways implemented
 
 ![sea budget](/images/blog/d4g-ph-traff/chart6.PNG){: .center-block :}
 <figcaption><i><b>Figure 5.1</b> Railroads built for transportation in SEA</i></figcaption>
