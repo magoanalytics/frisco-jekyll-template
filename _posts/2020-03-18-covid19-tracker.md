@@ -1,15 +1,20 @@
 ---
-layout: post
 title: Creating a COVID-19 PH Tracker by Aggregating News Articles
-subtitle: How we created a COVID-19 Tracker Using News Articles by using webscraping and NLP
-gh-repo:
-gh-badge:
-tags: [Webscraping, NLP, Mapping]
+date: 2020-03-18 00:00:00 Z
+tags:
+- Webscraping
+- NLP
+- Mapping
+layout: post
+subtitle: How we created a COVID-19 Tracker Using News Articles by using webscraping
+  and NLP
+gh-repo: 
+gh-badge: 
 comments: true
-image: /images/blog/covid_tracker/mago-tracker-cover.gif
+image: "/images/blog/covid_tracker/mago-tracker-cover.gif"
 reading-time: '5'
-author_list: [4_gab]
-
+author_list:
+- 4_gab
 ---
 
 Since January, the Philippines has been alert due tothe COVID-19 outbreak that’s happening all around the world. Flights have beensuspended, communities are put on quarantine, and, seemingly, life is on pause as weall speculate where the virus is.

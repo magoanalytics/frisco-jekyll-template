@@ -1,14 +1,22 @@
 ---
-layout: post
 title: Predicting the Philippine's C02 Emissions in 2020
-subtitle: In partnership with Eskwelabs and The Climate Realty Project, Eskwelabs' Data Science alumni try to predict the PH's C02 emissions in 2020 and analyze if COVID-19 has played a major role in it.
-tags: [Data Analysis, Predictive Analytics, Social Good]
+date: 2021-12-06 00:00:00 Z
+tags:
+- Data Analysis
+- Predictive Analytics
+- Social Good
+layout: post
+subtitle: In partnership with Eskwelabs and The Climate Realty Project, Eskwelabs'
+  Data Science alumni try to predict the PH's C02 emissions in 2020 and analyze if
+  COVID-19 has played a major role in it.
 comments: false
-image: /images/blog/f4sg-ccxe/cover.jpg
+image: "/images/blog/f4sg-ccxe/cover.jpg"
 reading-time: '5'
-share-img: /images/blog/d4g-ph-traff/share.png
-author_list: [4_gab]
+share-img: "/images/blog/d4g-ph-traff/share.png"
+author_list:
+- 4_gab
 ---
+
 <br>
 ## The Philippines Holds One Of The Worlds Longest Lockdown
  When COVID-19 struck this year, most countries' immediate measure in minimizing infections is having the country in a state of lockdown. Depending on how tightly implemented a lockdown is in a country, most of the regulations have people just staying at their homes, businesses closing down, and minimizing the use of public transportation.
