@@ -1,6 +1,6 @@
 ---
 title: Predicting the Philippine's C02 Emissions in 2020
-date: 2021-12-06 00:00:00 Z
+date: 2020-12-06 00:00:00 Z
 tags:
 - Data Analysis
 - Predictive Analytics
@@ -64,7 +64,7 @@ The Mobility Data set has a complete movement data for the Philippines. Since we
 
 ## Data Limitations
 <center><b>Country Movement Comparison</b></center>
-![figure 4](/images/blog/f4sg-ccxe/figure4.png){: .center-block :}
+[figure4.PNG](/uploads/figure4.PNG)
 <figcaption><i><b>Figure 4</b> Most countries follow similar movement trends</i></figcaption>
 
 Despite having movement data, most of the countries' trends are the same. So if we train a model just using these data, the Philippines would just imitate the C02 emissions of the country with the most similar movement to itself. In order to fix this, we need another dataset that makes the countries more distinct from one another besides their movement data.
