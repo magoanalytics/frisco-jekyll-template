@@ -5,16 +5,16 @@ tags:
 - Data Analysis
 - Predictive Analytics
 - Social Good
-layout: post
 subtitle: In partnership with Eskwelabs and The Climate Realty Project, Eskwelabs'
   Data Science alumni try to predict the PH's C02 emissions in 2020 and analyze if
   COVID-19 has played a major role in it.
 comments: false
 image: "/images/blog/f4sg-ccxe/cover.jpg"
-reading-time: '5'
+reading-time: 5
 share-img: "/images/blog/d4g-ph-traff/share.png"
 author_list:
 - 4_gab
+layout: post
 ---
 
 <br>
@@ -79,45 +79,3 @@ They have data on C02 Emissions produced by various sectors:
 - Waste
 - Land-use Change
 - Forestry
-
-
-
-## The Philippines is on its way to be third in yearly cyclist deaths
-
-![sea budget](/images/blog/d4g-ph-traff/chart5.PNG){: .center-block :}
-<figcaption><i><b>Figure 4.1</b> Cyclist Road Traffic Deaths in the Philippines, 1990 - 2017</i></figcaption>
-
-Another relevant point to focus on is cycling. Public transport has been on halt at the start of the pandemic. Thus, Filipinos have turned to biking to get from place to place.
-
-Compared with to other countries, an interesting trend is the one for cyclists in SEA. The red trend line represents the Philippines. Comparing this trend with others, our country appears to be on its way to have the third highest mortality rate for cyclists. Given the increase in biking since the pandemic, could there be a rise in mortalities this 2020?
-
-## The Philippines has the lowest number of railways implemented
-
-![sea budget](/images/blog/d4g-ph-traff/chart6.PNG){: .center-block :}
-<figcaption><i><b>Figure 5.1</b> Railroads built for transportation in SEA</i></figcaption>
-
-The data from the [International Union of Railways](https://data.worldbank.org/indicator/IS.RRS.TOTL.KM){:target="_blank_"} illustrates that the Philippines has the least amount of railways available.
-
-![sea budget](/images/blog/d4g-ph-traff/chart7.PNG){: .center-block :}
-<figcaption><i><b>Table 1.1</b> SEA Countries Investments vs Railroads Implemented</i></figcaption>
-
-If we compare the transport investments to the total railroads per country, some countries have invested less than the Philippines yet, have a higher number of railroads.
-
-## What should the Philippines do?
-
-In summary, these are potential points of focus to improve the transport infrastructure in the Philippines:
-- Effective measures in reducing pedestrian casualties
-- Invest in cycling infrastructure
-- Improve railway systems
-
-Our country has already started implementing improvements like the [BRT system in Cebu](https://www.pna.gov.ph/articles/1094751){:target="_blank_"} This system not only improves bus transport but also pedestrian safety. We also have investments in road extensions like the [3 hour trip from Manila to Baguio via TPLEX](https://www.sunstar.com.ph/article/1863854/Pampanga/Local-News/TPLEx-reduces-Manila-Baguio-travel-time-to-3-hours){:target="_blank_"} and the [Ortigas - BGC bridge](https://www.topgear.com.ph/news/motoring-news/bgc-ortigas-bridge-meet-a962-20200807){:target="_blank_"} These can potentially reduce road traffic. However, most of these developments are geared towards private vehicles.
-
-In order for the Philippines to reduce private vehicle dependence, investments should be made towards alternative transport, such as walking, biking, and commuting. To achieve this, safe and efficient infrastructure must be in place.
-
-<i>“A developed country is not a place where the poor have cars. It’s where the rich use public transportation” – Gustavo Petro, Mayor of Bogotá</i>
-
-## Data for Good Hackathon
-
-This data analysis got second place on the [Data for Good Hackathon](https://www.unsdsn.org/data-for-good-hackathon-philippines){:target="_blank_"}. The United Nations Sustainable Development Solutions Network (SDSN) partnered with Eskwelabs, a data-science bootcamp in the Philippines, to host a Data for Good hackathon. The virtual hackathon was designed for those who were eager to learn more about how the Philippines is doing in achieving the United Nations Sustainable Development Goals (SDGs). Further analysis could be done by using updated datasets, if available.
-
-[You can watch the presentation of Mago Analytics here.](https://www.facebook.com/Eskwelabs/videos/2434475030179439/?t=5110){:target="_blank_"}
