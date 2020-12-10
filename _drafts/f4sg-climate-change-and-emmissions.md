@@ -18,23 +18,32 @@ layout: post
 ---
 
 <br>
-## The Philippines Holds One Of The Worlds Longest Lockdown
- When COVID-19 struck this year, most countries' immediate measure in minimizing infections is having the country in a state of lockdown. Depending on how tightly implemented a lockdown is in a country, most of the regulations have people just staying at their homes, businesses closing down, and minimizing the use of public transportation.
 
- With the Philippines having one of the world's longest lockdown, its very curious to see if the country has recovered the most in terms of C02 Emissions produced in 2020, given how the new normal has changed everyone's behaviors during the pandemic.
+## The Philippines Holds One Of The Worlds Longest Lockdown
+
+When COVID-19 struck this year, most countries' immediate measure in minimizing infections is having the country in a state of lockdown. Depending on how tightly implemented a lockdown is in a country, most of the regulations have people just staying at their homes, businesses closing down, and minimizing the use of public transportation.
+
+With the Philippines having one of the world's longest lockdown, its very curious to see if the country has recovered the most in terms of C02 Emissions produced in 2020, given how the new normal has changed everyone's behaviors during the pandemic.
 
 ## What is Currently Happening?
 
 ### Google COVID-19 Mobility Report
-To gain more context on how COVID-19 has changed each countries' behavior, data from [Google's COVID-19 Mobility Report](https://www.google.com/covid19/mobility/){:target="_blank_"} shows the total amount each Southeast Asian country has invested towards the improvement of their respective transport infrastructure.
+
+To gain more context on how COVID-19 has changed each countries' behavior, data from [Google's COVID-19 Mobility Report](https://www.google.com/covid19/mobility/){:target="*blank*"} shows the total amount each Southeast Asian country has invested towards the improvement of their respective transport infrastructure.
 
 The Community Mobility Reports show movement trends by region, across different categories of places:
-- Grocery & pharmacy
-- Retail & recreation
-- Parks
-- Transit stations
-- Workplaces
-- Residential
+
+* Grocery & pharmacy
+
+* Retail & recreation
+
+* Parks
+
+* Transit stations
+
+* Workplaces
+
+* Residential
 
 <center><b>Aggregated Movement Data in 2020</b></center>
 ![figure 1](/images/blog/f4sg-ccxe/figure1.png){: .center-block :}
@@ -43,7 +52,8 @@ The Community Mobility Reports show movement trends by region, across different 
 From March onwards, movement for areas outside homes like workplaces, parks, and recreation drastically went down while residential areas went up since people have mostly stayed at home during the pandemic, giving us an idea that residential movement is greatly correlated with how people move during the pandemic.
 
 ### Carbon Monitor
-As for C02 Emissions in 2020, [Carbon Monitor](https://carbonmonitor.org/){:target="_blank_"} is a global initiative that uses science-based estimates to monitor daily CO2 emissions of different countries by region across different sectors
+
+As for C02 Emissions in 2020, [Carbon Monitor](https://carbonmonitor.org/){:target="*blank*"} is a global initiative that uses science-based estimates to monitor daily CO2 emissions of different countries by region across different sectors
 
 ![emissions_sec](/images/blog/f4sg-ccxe/emission_sec.png){: .center-block :}
 
@@ -61,8 +71,8 @@ We can see that as residential movement increases, the C02 emissions for transpo
 
 The Mobility Data set has a complete movement data for the Philippines. Since we have the movement & C02 data of other countries, we can train a model that understands how C02 is produced based on movement data and have it predict the Philippine's C02 based from its movements.
 
-
 ## Data Limitations
+
 <center><b>Country Movement Comparison</b></center>
 [figure4.PNG](/uploads/figure4.PNG)
 <figcaption><i><b>Figure 4</b> Most countries follow similar movement trends</i></figcaption>
@@ -70,12 +80,19 @@ The Mobility Data set has a complete movement data for the Philippines. Since we
 Despite having movement data, most of the countries' trends are the same. So if we train a model just using these data, the Philippines would just imitate the C02 emissions of the country with the most similar movement to itself. In order to fix this, we need another dataset that makes the countries more distinct from one another besides their movement data.
 
 ### Climate Watch
-[Climate Watch](https://carbonmonitor.org/){:target="_blank_"} offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress.
+
+[Climate Watch](https://carbonmonitor.org/){:target="*blank*"} offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress.
 
 They have data on C02 Emissions produced by various sectors:
-- Energy
-- Agriculture
-- Industrial Processes
-- Waste
-- Land-use Change
-- Forestry
+
+* Energy
+
+* Agriculture
+
+* Industrial Processes
+
+* Waste
+
+* Land-use Change
+
+* Forestry
