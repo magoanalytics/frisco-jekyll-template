@@ -1,7 +1,6 @@
 ---
 title: Predicting the Philippine's C02 Emissions in 2020
 date: 2020-12-06 00:00:00 Z
-published: true
 tags:
 - Data Analysis
 - Predictive Analytics
