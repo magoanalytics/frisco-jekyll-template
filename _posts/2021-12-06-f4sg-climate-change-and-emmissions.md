@@ -1,11 +1,11 @@
 ---
 title: Predicting the Philippine's C02 Emissions in 2020
 date: 2021-12-06 00:00:00 Z
-publish: hide
 tags:
 - Data Analysis
 - Predictive Analytics
 - Social Good
+publish: hide
 subtitle: In partnership with Eskwelabs and The Climate Realty Project, Eskwelabs'
   Data Science alumni try to predict the PH's C02 emissions in 2020 and analyze if
   COVID-19 has played a major role in it.
