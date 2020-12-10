@@ -1,7 +1,7 @@
 ---
 title: Predicting the Philippine's C02 Emissions in 2020
 date: 2020-12-06 00:00:00 Z
-published: false
+published: true
 tags:
 - Data Analysis
 - Predictive Analytics
@@ -34,17 +34,12 @@ To gain more context on how COVID-19 has changed each countries' behavior, data 
 
 The Community Mobility Reports show movement trends by region, across different categories of places:
 
-* Grocery & pharmacy
-
-* Retail & recreation
-
-* Parks
-
-* Transit stations
-
-* Workplaces
-
-* Residential
+- Grocery & pharmacy
+- Retail & recreation
+- Parks
+- Transit stations
+- Workplaces
+- Residential
 
 <center><b>Aggregated Movement Data in 2020</b></center>
 ![figure 1](/images/blog/f4sg-ccxe/figure1.png){: .center-block :}
@@ -75,7 +70,7 @@ The Mobility Data set has a complete movement data for the Philippines. Since we
 ## Data Limitations
 
 <center><b>Country Movement Comparison</b></center>
-[figure4.PNG](/uploads/figure4.PNG)
+![figure4.PNG](/images/blog/f4sg-ccxe/figure4.PNG){: .center-block :}
 <figcaption><i><b>Figure 4</b> Most countries follow similar movement trends</i></figcaption>
 
 Despite having movement data, most of the countries' trends are the same. So if we train a model just using these data, the Philippines would just imitate the C02 emissions of the country with the most similar movement to itself. In order to fix this, we need another dataset that makes the countries more distinct from one another besides their movement data.
@@ -86,14 +81,9 @@ Despite having movement data, most of the countries' trends are the same. So if 
 
 They have data on C02 Emissions produced by various sectors:
 
-* Energy
-
-* Agriculture
-
-* Industrial Processes
-
-* Waste
-
-* Land-use Change
-
-* Forestry
+- Energy
+- Agriculture
+- Industrial Processes
+- Waste
+- Land-use Change
+- Forestry
