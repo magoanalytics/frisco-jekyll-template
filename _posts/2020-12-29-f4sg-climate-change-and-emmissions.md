@@ -112,7 +112,7 @@ With everything in place, the diagram above summarizes the entire workflow in pr
 
 Looking at the predictions, it was able to produce the same trend from figure 2 that when residential movement increases, the emissions produced by transport reduces. So we can say that this is definitely an accurate trend line for emissions produced by transport. But what about its levels compared to other countries?
 
-### Predicted Values vs. Other Countries
+## Predicted Values vs. Other Countries
 
 ![figure8.PNG](/images/blog/f4sg-ccxe/figure8.PNG){: .center-block :}
 <figcaption><i><b>Figure 8</b> These countries have higher metric tons of C02 emissions produced than the Philppines</i></figcaption>
