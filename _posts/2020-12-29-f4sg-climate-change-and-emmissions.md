@@ -56,9 +56,9 @@ From March onwards, movement for areas outside homes like workplaces, parks, and
 
 ## Carbon Monitor
 
-As for C02 Emissions in 2020, [Carbon Monitor](https://carbonmonitor.org/){:target="*blank*"} is a global initiative that uses science-based estimates to monitor daily CO2 emissions of different countries by region across different sectors
+As for C02 Emissions in 2020, [Carbon Monitor](https://carbonmonitor.org/){:target="*blank*"} is a global initiative that uses science-based estimates to monitor daily CO2 emissions of different countries by region across different sectors.
 
-![emissions_sec](/images/blog/f4sg-ccxe/emission_sec.png){: .center-block :}
+![emissions_sec](/images/blog/f4sg-ccxe/emission_sec.PNG){: .center-block :}
 
 For this study, we focused on Power and Ground Transport CO2 emissions since they're closely tied with movement data.
 
