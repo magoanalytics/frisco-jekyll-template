@@ -7,7 +7,7 @@ tags:
 - Predictive Analytics
 - Social Good
 publish: hide
-subtitle: In partnership with Eskwelabs and The Climate Realty Project, Eskwelabs'
+subtitle: In partnership with Eskwelabs and The Climate Reality Project, Eskwelabs'
   Data Science alumni try to predict the PH's C02 emissions in 2020 and analyze if
   COVID-19 has played a major role in it.
 comments: false
@@ -27,17 +27,15 @@ layout: post
 
 <br>
 
-# The Philippines Holds One Of The Worlds Longest Lockdown
+## The Philippines Holds One Of The World's Longest Lockdown
 
 When COVID-19 struck this year, most countries' immediate measure in minimizing infections is having the country in a state of lockdown. Depending on how tightly implemented a lockdown is in a country, most of the regulations have people just staying at their homes, businesses closing down, and minimizing the use of public transportation.
 
-With the Philippines having one of the world's longest lockdown, its very curious to see if the country has recovered the most in terms of C02 Emissions produced in 2020, given how the new normal has changed everyone's behaviors during the pandemic.
+With the Philippines having one of the world's longest lockdown, it's very curious to see if the country has recovered the most in terms of C02 Emissions produced in 2020, given how the new normal has changed everyone's behaviors during the pandemic.
 
-## What is Currently Happening?
-&nbsp;
-### Google COVID-19 Mobility Report
+## Google COVID-19 Mobility Report
 
-To gain more context on how COVID-19 has changed each countries' behavior, data from [Google's COVID-19 Mobility Report](https://www.google.com/covid19/mobility/){:target="*blank*"} shows the total amount each Southeast Asian country has invested towards the improvement of their respective transport infrastructure.
+To gain more context on how COVID-19 has changed each countries' behavior, data from [Google's COVID-19 Mobility Report](https://www.google.com/covid19/mobility/){:target="*blank*"} show the total amount each Southeast Asian country has invested towards the improvement of their respective transport infrastructure.
 
 The Community Mobility Reports show movement trends by region, across different categories of places:
 
