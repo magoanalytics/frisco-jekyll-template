@@ -204,13 +204,15 @@
 	  border-bottom: 1px solid #eee;
 		margin-left: auto;
 		margin-right: auto;
-    width: 800px;
+    width: 40%;
 	}
 
-	@media only screen and (min-width: 768px) {
-	  .post-preview {
-	    padding: 35px 0;
-	  }
+	@media only screen and (max-width: 768px) {
+		/* For mobile phones: */
+		.post-preview {
+			padding: 35px 0;
+			width: 90%;
+		}
 	}
 
 	.post-preview:last-child {

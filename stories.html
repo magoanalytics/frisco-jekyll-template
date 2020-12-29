@@ -1,6 +1,6 @@
 ---
 title: Stories
-description: 
+description:
 image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
 ---
 
@@ -14,7 +14,7 @@ image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
     	  <h2 class="post-title"><b>{{ post.title }}</b></h2>
 
         {% if post.author_list %}
-    	  <h4 class="post-subtitle" style = "margin-top= 50px;"> By 
+    	  <h4 class="post-subtitle" style = "margin-top= 50px;"> By
           {% for id in post.author_list %}
   					{% assign author_id = id | prepend: "/staff_members/" | append: "/" %}
   					{% assign author = site.staff_members | where: "url", author_id | first %}
