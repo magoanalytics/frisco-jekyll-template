@@ -122,7 +122,7 @@ Looking at the predictions, it was able to produce the same trend from figure 2 
 Among the countries with 2020 c02 data, the Philippines is lower than Brazil, India, Japan, and Russia compared with the predicted values.
 
 ![figure9.PNG](/images/blog/f4sg-ccxe/figure9.PNG){: .center-block :}
-<figcaption><i><b>Figure 9</b> There are countries that have the same c02 levels as the Philippines</i></figcaption>
+<figcaption><i><b>Figure 9</b> There are countries that have the same C02 levels as the Philippines</i></figcaption>
 
 But looking at France, UK, Italy, and Spain, these countries have the same levels as the Philippines. We did another prediction for emissions produced by power and the results are more or less the same.
 
