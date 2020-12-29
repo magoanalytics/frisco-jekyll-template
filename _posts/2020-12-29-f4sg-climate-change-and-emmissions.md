@@ -13,7 +13,7 @@ subtitle: In partnership with Eskwelabs and The Climate Realty Project, Eskwelab
 comments: false
 image: "/images/blog/f4sg-ccxe/cover.jpg"
 reading-time: 10
-share-img: "/images/blog/f4sg-ccxe/cxc-f4sg-share-img.png"
+share-img: "/images/blog/f4sg-ccxe/ccxe-f4sg-share-img.png"
 author_list:
 - 4_gab
 - e_david
