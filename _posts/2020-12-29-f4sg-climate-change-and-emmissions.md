@@ -12,7 +12,7 @@ subtitle: In partnership with Eskwelabs and The Climate Realty Project, Eskwelab
   COVID-19 has played a major role in it.
 comments: false
 image: "/images/blog/f4sg-ccxe/cover.jpg"
-reading-time: 5
+reading-time: 10
 share-img: "/images/blog/f4sg-ccxe/cxc-f4sg-share-img.png"
 author_list:
 - 4_gab
