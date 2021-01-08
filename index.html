@@ -86,11 +86,13 @@ bottom_image: images/background2.jpg
 			<h2 style="	text-align: center; "> Hear from the <b style = "color: DarkOrange">magô </b><b style = "color: Orange">analytics</b> team!</h2>
 			<ul class="staff">
 				{% for person in site.staff_members %}
-					<li>
-						<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
-						<div class="name"><a target="_blank" href="https://github.com/{{ person.github_username }}"><b>{{ person.name }}</b></a></div>
-						<div class="position">{{ person.position }}</div>
-					</li>
+          {% if person.main != True %}
+  					<li>
+  						<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
+  						<div class="name"><a target="_blank" href="https://github.com/{{ person.github_username }}"><b>{{ person.name }}</b></a></div>
+  						<div class="position">{{ person.position }}</div>
+  					</li>
+          {% endif %}
 				{% endfor %}
 			</ul>
 		</div>
